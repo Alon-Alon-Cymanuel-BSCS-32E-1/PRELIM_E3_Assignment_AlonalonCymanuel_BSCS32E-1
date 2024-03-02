@@ -1,26 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\MASTERCY\\Documents\\GitHub\\PRELIM_E3_Assignment_AlonalonCymanuel_BSCS32E-1\\PRELIM_E3_Assignment_AlonalonCymanuel_BSCS32E-1.csproj": {}
+    "C:\\Users\\STUDENT\\Documents\\GitHub\\PRELIM_E3_Assignment_AlonalonCymanuel_BSCS32E-1\\PRELIM_E3_Assignment_AlonalonCymanuel_BSCS32E-1.csproj": {}
   },
   "projects": {
-    "c:\\Users\\MASTERCY\\Documents\\GitHub\\PRELIM_E3_Assignment_AlonalonCymanuel_BSCS32E-1\\PRELIM_E3_Assignment_AlonalonCymanuel_BSCS32E-1.csproj": {
+    "C:\\Users\\STUDENT\\Documents\\GitHub\\PRELIM_E3_Assignment_AlonalonCymanuel_BSCS32E-1\\PRELIM_E3_Assignment_AlonalonCymanuel_BSCS32E-1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\MASTERCY\\Documents\\GitHub\\PRELIM_E3_Assignment_AlonalonCymanuel_BSCS32E-1\\PRELIM_E3_Assignment_AlonalonCymanuel_BSCS32E-1.csproj",
+        "projectUniqueName": "C:\\Users\\STUDENT\\Documents\\GitHub\\PRELIM_E3_Assignment_AlonalonCymanuel_BSCS32E-1\\PRELIM_E3_Assignment_AlonalonCymanuel_BSCS32E-1.csproj",
         "projectName": "PRELIM_E3_Assignment_AlonalonCymanuel_BSCS32E-1",
-        "projectPath": "c:\\Users\\MASTERCY\\Documents\\GitHub\\PRELIM_E3_Assignment_AlonalonCymanuel_BSCS32E-1\\PRELIM_E3_Assignment_AlonalonCymanuel_BSCS32E-1.csproj",
-        "packagesPath": "C:\\Users\\MASTERCY\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\MASTERCY\\Documents\\GitHub\\PRELIM_E3_Assignment_AlonalonCymanuel_BSCS32E-1\\obj\\",
+        "projectPath": "C:\\Users\\STUDENT\\Documents\\GitHub\\PRELIM_E3_Assignment_AlonalonCymanuel_BSCS32E-1\\PRELIM_E3_Assignment_AlonalonCymanuel_BSCS32E-1.csproj",
+        "packagesPath": "C:\\Users\\STUDENT\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\STUDENT\\Documents\\GitHub\\PRELIM_E3_Assignment_AlonalonCymanuel_BSCS32E-1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\MASTERCY\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\STUDENT\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "https://api.nuget.org/v3/index.json": {}
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
         },
         "frameworks": {
           "net8.0": {
@@ -61,7 +62,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
